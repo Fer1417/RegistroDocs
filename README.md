@@ -77,9 +77,7 @@ Visualizar CURP, RFC, INE, domicilio, cédula, etc.
 Interfaz responsive con Bootstrap 5
 
 📁 Estructura del proyecto
-arduino
-Copiar
-Editar
+```bash
 ├── app.py
 ├── db.py
 ├── config.py
