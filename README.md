@@ -1,4 +1,4 @@
-# 📄 DocsValidacion2
+# 📄 Registro de Documentos
 
 Sistema web para validación automática de documentos oficiales como CURP, RFC, INE, cédula profesional, comprobante de domicilio, etc., usando OCR con Tesseract y Flask.
 
@@ -38,7 +38,7 @@ Instala:
 1. Clona el repositorio o descarga el código:
 
 ```bash
-git clone https://github.com/usuario/docs-validacion2.git
+https://github.com/Fer1417/RegistroDocs.git
 cd docs-validacion2
 ```
 2. Crea y activa entorno virtual:
